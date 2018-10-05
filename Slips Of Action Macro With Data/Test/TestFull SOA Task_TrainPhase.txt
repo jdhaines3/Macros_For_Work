@@ -1,0 +1,52 @@
+CongruentBanana,1,2055,2,2
+StandardGrape,0,1606,0,2
+StandardGrape,1,1093,4,6
+CongruentBanana,1,1041,4,10
+IncongruentOrange,1,1422,4,14
+IncongruentOrange,0,1302,0,14
+StandardApple,1,1636,3,17
+CongruentPear,1,1256,4,21
+IncongruentPineapple,0,1202,0,21
+IncongruentPineapple,1,1216,4,25
+CongruentPear,1,1163,4,29
+StandardApple,0,1486,0,29
+End Of Block,End Of Block,End Of Block,End Of Block,End Of Block
+CongruentPear,1,1412,4,33
+StandardApple,1,882,5,38
+StandardGrape,1,1087,4,42
+CongruentBanana,1,881,5,47
+StandardGrape,1,841,5,52
+IncongruentOrange,1,1236,4,56
+CongruentPear,1,859,5,61
+IncongruentOrange,1,1110,4,65
+IncongruentPineapple,1,957,5,70
+CongruentBanana,1,655,5,75
+StandardApple,1,688,5,80
+IncongruentPineapple,1,904,5,85
+End Of Block,End Of Block,End Of Block,End Of Block,End Of Block
+IncongruentPineapple,1,851,5,90
+StandardGrape,1,694,5,95
+IncongruentOrange,1,752,5,100
+CongruentBanana,1,645,5,105
+CongruentPear,1,716,5,110
+CongruentPear,1,662,5,115
+StandardApple,1,684,5,120
+StandardApple,1,672,5,125
+CongruentBanana,1,677,5,130
+IncongruentPineapple,0,1102,0,130
+StandardGrape,1,639,5,135
+IncongruentOrange,1,959,5,140
+End Of Block,End Of Block,End Of Block,End Of Block,End Of Block
+CongruentPear,1,705,5,145
+CongruentBanana,1,648,5,150
+StandardApple,1,671,5,155
+CongruentPear,1,630,5,160
+StandardGrape,1,645,5,165
+CongruentBanana,1,688,5,170
+IncongruentPineapple,1,995,5,175
+IncongruentOrange,1,845,5,180
+StandardGrape,1,877,5,185
+IncongruentOrange,1,912,5,190
+StandardApple,1,890,5,195
+IncongruentPineapple,1,1002,4,199
+End Of Block,End Of Block,End Of Block,End Of Block,End Of Block

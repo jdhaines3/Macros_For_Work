@@ -1,0 +1,2 @@
+HASDA Macro is newest and completely changed many parts of it. Uses Output text files and infusion software output to gather data.
+PAR and PERC squizzers are older, when I just started learning programming. Edited, added to, and flushed out someone's original macro originally.

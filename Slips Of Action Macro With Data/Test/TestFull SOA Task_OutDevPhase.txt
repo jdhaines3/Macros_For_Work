@@ -1,0 +1,12 @@
+Pear,Banana,1,1495,4,4
+Banana,Pear,1,1097,4,8
+Cherry,Watermelon,1,1299,4,12
+Orange,Pineapple,0,1128,0,12
+Pineapple,Pear,1,831,5,17
+Melon,Cherry,1,971,5,22
+Pineapple,Orange,0,778,0,22
+Banana,Watermelon,0,1189,0,22
+Melon,Banana,0,1192,0,22
+Pear,Pineapple,0,808,0,22
+Orange,Cherry,1,2467,2,24
+Cherry,Orange,1,1604,3,27

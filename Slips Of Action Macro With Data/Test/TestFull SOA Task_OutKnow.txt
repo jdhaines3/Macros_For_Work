@@ -1,0 +1,6 @@
+CongruentPear,Pear,1
+CongruentBanana,Banana,1
+IncongruentPineapple,Orange,1
+StandardGrapes,Cherry,1
+StandardApple,Watermelon,1
+IncongruentOrange,Pineapple,1
